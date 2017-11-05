@@ -1,4 +1,4 @@
-playlist = new Object();
+playlist = new Object(eminem: "without me");
 
 function updatePlaylist(playlist, artistName, songTitle)
 {
